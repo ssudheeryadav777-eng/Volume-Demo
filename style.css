@@ -1,0 +1,32 @@
+ #yes  {
+ height:700px ;
+ width:400px ;
+ border:1px solid navy ;  
+ display:grid;
+ grid-template-rows:50px 50px 50px  ;
+ grid-template-columns:80px 80px 80px ;
+
+ }
+
+.grey {
+  height:100px ;
+  width:100px;
+  background-color: grey;
+  font-size:50px ;
+  text-align: center;
+  border-radius:10px ;
+}
+
+#low {
+background-color: coral;  
+height:50px ;
+width:900px ;
+display: flex;
+border: radius 10%;
+}
+
+.no {
+height:50px ;
+width:80px ;
+font-size:24px ;    
+}
